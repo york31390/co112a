@@ -10,5 +10,5 @@
 課程教材 | https://github.com/ccc112a/cpu2os <BR/> https://www.nand2tetris.org/
 
 
-1~3習題已完成，4~5習題未理解。
+1~3習題已完成，4~5習題未理解。  
 使用Bard輔助，1~3習題完全理解.
